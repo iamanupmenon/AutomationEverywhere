@@ -1,0 +1,25 @@
+{
+  "name": "automation_everywhere",
+  "version": "1.0.0",
+  "description": "This is a new project, Probably will be website that contains my profile, Blog, reviews and maybe hobbies. PS : this is the new begining so remember the date 6th April 2018 1:48AM IST. And WELCOME TO THE WORLD OF POSSIBILITIES. ",
+  "author": "Anup Menon <iamanupmenon@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "nuxt": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-vue": "^4.0.0"
+  }
+}
